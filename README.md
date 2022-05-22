@@ -1,2 +1,2 @@
-# Criar repositório da Dio
+# Criar repositório Dio
 Desafio de projeto DIO 
